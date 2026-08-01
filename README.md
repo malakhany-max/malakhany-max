@@ -1,15 +1,22 @@
 <div align="center">
 
-<img width="100%" height="250"
-src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Malak%20Hany&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&animation=fadeIn&customColorList=6,11,20,24,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Malak%20Hany&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=7C3AED&animation=fadeIn&color=0:00E5FF,25:3B82F6,50:8B5CF6,75:EC4899,100:F472B6"/>
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=900&lines=Frontend+React+Developer;Web+Designer;TypeScript+%7C+Node.js+%7C+NestJS;ICPC+Participant;Always+Learning+New+Technologies"/>
+
+
+<h2>
+Frontend React Developer
+</h2>
+
+<p>
+Building modern, responsive and user-friendly web experiences with clean code, creativity, and problem-solving mindset.
+</p>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=30&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Frontend+React+Developer;Web+Designer;React+%7C+TypeScript+%7C+Node.js;NestJS+Learner;ICPC+Participant;Building+Modern+Web+Experiences"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=malakhany-max&style=for-the-badge&color=8B5CF6"/>
+<img src="https://komarev.com/ghpvc/?username=malakhany-max&label=Profile+Views&style=for-the-badge&color=8B5CF6"/>
 
 </div>
 
