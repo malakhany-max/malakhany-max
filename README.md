@@ -1,33 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00E5FF,18:00B8FF,40:3B82F6,65:8B5CF6,82:D946EF,100:EC4899&text=Malak%20Hany&fontColor=ffffff&fontSize=62&fontAlignY=38&animation=fadeIn"/>
+<img width="100%" height="250"
+src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Malak%20Hany&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&animation=fadeIn&customColorList=6,11,20,24,30"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=30&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Frontend+React+Developer;Web+Designer;ICPC+Participant;NestJS+%7C+Node.js+%7C+TypeScript;Always+Learning+New+Technologies"/>
+<br>
 
-<h2>Frontend React Developer</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=30&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Frontend+React+Developer;Web+Designer;React+%7C+TypeScript+%7C+Node.js;NestJS+Learner;ICPC+Participant;Building+Modern+Web+Experiences"/>
 
-<p>
-Passionate about building modern, responsive, and user-friendly web applications with clean code, intuitive UI, and continuous learning.
-</p>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=malakhany-max&label=Profile+Views&style=for-the-badge&color=8B5CF6"/>
+<img src="https://komarev.com/ghpvc/?username=malakhany-max&style=for-the-badge&color=8B5CF6"/>
 
 </div>
 
----
 
-# 💜 About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284126-7b1d7f4e-4f58-4f9d-8f0b-2a3b5c1b7b1f.gif" width="100%">
 
-- 🇪🇬 Frontend React Developer from Egypt
-- 🎓 Web Designer Trainee @ NTI
-- ⚛️ Frontend React Trainee @ DEPI
-- 🏆 ICPC Participant
-- 💡 Passionate about UI/UX, clean code and responsive design
-- 🚀 Currently learning:
-  - TypeScript
-  - Node.js
-  - NestJS
-- 🎯 Goal: Become a Full Stack JavaScript Developer
+
+## 💫 About Me
+
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284136-1e3d8e4d-9c3f-4b6e-8b7e-1b1d6d4b8c8e.gif">
+
+
+🎨 Web Designer Trainee @ **NTI**
+
+⚛️ Frontend React Trainee @ **DEPI**
+
+🏆 ICPC Participant
+
+💻 Frontend React Developer passionate about creating modern, responsive and user-friendly web applications.
+
+🚀 Currently improving my skills in:
+
+- TypeScript
+- Node.js
+- NestJS
+
+🎯 My goal is to become a Full Stack JavaScript Developer.
+
+
+<br clear="right"/>
+
 
 ---
 
@@ -35,31 +48,29 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,git,github,vscode,figma,cpp"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,npm"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,typescript,nodejs,nestjs,git,github,vscode,figma,cpp"/>
 
 </div>
 
+
 ---
 
-# 📊 GitHub Statistics
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malakhany-max&theme=tokyonight"/>
+<img width="48%"
+src="https://github-readme-stats.vercel.app/api?username=malakhany-max&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malakhany-max&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=malakhany-max&theme=tokyonight"/>
+<img width="48%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=malakhany-max&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
+
 ---
+
 
 # 🔥 GitHub Streak
 
@@ -69,18 +80,63 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 </div>
 
----
-
-# 🏆 Achievements
-
-- 🏅 ICPC Participant
-- 🎓 Web Designer Trainee @ NTI
-- ⚛️ Frontend React Trainee @ DEPI
-- 💻 Built multiple Frontend Projects using HTML, CSS, JavaScript & React
-- 🌱 Expanding Backend knowledge with Node.js, NestJS & TypeScript
-- 🚀 Passionate about problem solving and continuous learning
 
 ---
+
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=malakhany-max&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+
+---
+
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=malakhany-max&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+
+---
+
+
+# 🐍 Snake Contribution
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/malakhany-max/malakhany-max/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+
+---
+
+
+# 🏅 Achievements
+
+✨ Frontend React Developer
+
+🎨 Web Designer Trainee @ NTI
+
+⚛️ React Trainee @ DEPI
+
+🏆 ICPC Participant
+
+🚀 Continuous Learner
+
+💡 Problem Solver
+
+
+---
+
 
 # 🌐 Connect With Me
 
@@ -108,18 +164,17 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 </div>
 
+
 ---
+
 
 # 🌍 Portfolio
 
-🚧 **Coming Soon...**
+🚧 Coming Soon...
 
----
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00E5FF,18:00B8FF,40:3B82F6,65:8B5CF6,82:D946EF,100:EC4899"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&customColorList=6,11,20,24,30"/>
 
 </div>
