@@ -1,175 +1,136 @@
-<h1 align="center">
-Hi 👋, I'm Malak Hany
-</h1>
+<h1 align="center">Welcome To My ! 👋, I'm Malak Hany</h1>
 
 <h3 align="center">
-Frontend React Developer • Web Designer • ICPC Participant
+Frontend React Developer | Web Designer | Competitive Programmer
 </h3>
 
 <p align="center">
-Building responsive, modern, and user-friendly web applications.
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Frontend+React+Developer;Web+Designer;Always+Learning+New+Technologies;ICPC+Contestant;Building+Modern+Web+Applications" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 💫 About Me
 
-🎓 Computer Science Student at **Alexandria University**
+💙 I'm **Malak Hany**, a passionate **Frontend React Developer** from Egypt.
 
-💻 Frontend React Developer Trainee at **DEPI**
+- 🎓 Student at **Faculty of Computers & Artificial Intelligence**
+- 💻 Frontend React Trainee at **DEPI**
+- 🎨 Web Design Trainee at **NTI**
+- 🏆 ICPC Contestant
+- 🌱 Currently learning **React Ecosystem, TypeScript, Node.js, NestJS**
+- ✨ Passionate about building responsive, modern, and user-friendly web applications.
+- 📚 Constantly improving my problem-solving and software engineering skills.
 
-🎨 Web Designer Trainee at **NTI**
-
-🏆 ICPC Participant & Competitive Programmer
-
-🚀 Passionate about creating responsive, modern, and high-performance web applications.
-
-🌱 Currently learning **TypeScript**, **Node.js**, and **NestJS**.
-
-💡 I enjoy turning ideas into clean, interactive, and user-friendly web experiences.
-
-🤝 Always learning, improving, and building new projects.
+<!-- 🌐 Portfolio: https://your-portfolio-link -->
 
 ---
 
 # 🚀 Tech Stack
 
-### Frontend
+### 🌐 Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,redux,tailwind" />
 </p>
 
-### Currently Learning
+### ⚙️ Backend & Runtime
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
 </p>
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=cpp,java,python"/>
-
+<img src="https://skillicons.dev/icons?i=cpp,js,ts" />
 </p>
 
-### Tools
+### 🗄 Database
 
 <p>
+<img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+### 🛠 Tools
 
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
 </p>
 
 ---
 
 # 🌱 Currently Learning
 
-- React Advanced Concepts
+- React Advanced
 - TypeScript
 - Node.js
 - NestJS
 - REST APIs
-- Data Structures & Algorithms
+- Clean Code
+- Software Architecture
 
 ---
 
-# 🏆 Experience
+# 🎓 Education & Training
 
-### 💻 DEPI
+### 🎓 Faculty of Computers & Artificial Intelligence
+
+Bachelor's Degree
+
+### 💻 Digital Egypt Pioneers Initiative (DEPI)
 
 Frontend React Developer Trainee
 
-- Building responsive React applications.
-- Working with reusable components.
-- Learning modern frontend workflows.
+### 🎨 National Telecommunication Institute (NTI)
 
-### 🎨 NTI
-
-Web Designer Trainee
-
-- Responsive Web Design.
-- UI Implementation.
-- HTML, CSS, JavaScript & Bootstrap.
-
-### 🏆 ICPC
-
-Competitive Programming Participant
-
-- Solving algorithmic problems using C++.
-- Improving problem-solving skills.
-- Practicing data structures and algorithms.
+Web Design Trainee
 
 ---
 
-# 🚀 Featured Projects
+# 🏆 Competitive Programming
 
-### 🎮 GamePulse
-
-Modern responsive game review website.
-
-✨ Features
-
-- Search Games
-- Categories
-- Platform Filter
-- Sorting
-- Favorites
-- Game Details
-- Responsive Design
+- 🥇 ICPC Contestant
+- 💻 Solving algorithmic problems using C++
+- 📚 Improving Data Structures & Algorithms skills
 
 ---
 
-### 🌤 SkyCast
+# 🌍 Connect With Me
 
-Modern weather application.
+<p align="left">
+<a href="https://github.com/malakhany-max">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 
-✨ Features
+<a href="https://www.linkedin.com/in/malak-hany-224m9706">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-- Search Cities
-- Live Weather
-- Dynamic Background
-- Responsive Design
+<a href="https://www.facebook.com/Malak.Hany.06">
+<img src="https://skillicons.dev/icons?i=facebook" />
+</a>
 
----
+<a href="mailto:malakhany1422006@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
-### 🛍 Pinkissed Store
+<a href="https://discord.com/users/1147313890787594351">
+<img src="https://skillicons.dev/icons?i=discord" />
+</a>
+</p>
 
-Responsive Full-Stack E-commerce Website.
-
-✨ Features
-
-- Authentication
-- Shopping Cart
-- Cash on Delivery
-- Product Details
-
----
-
-### 🍔 Food Website
-
-Modern responsive restaurant landing page.
+📧 **Email:** malakhany1422006@gmail.com
 
 ---
 
-### 📝 CRUD System
-
-Simple CRUD application using JavaScript.
-
----
-
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=malakhany-max&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=malakhany-max&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malakhany-max&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malakhany-max&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -179,42 +140,42 @@ Simple CRUD application using JavaScript.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=malakhany-max&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=malakhany-max&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📫 Connect with Me
+# 🏆 GitHub Trophies
 
-<p>
+<p align="center">
 
-<a href="https://github.com/malakhany-max">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/malak-hany-224m9706">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=malakhany-max&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
-📧 **Email**
-
-malakhany1422006@gmail.com
-
 ---
 
-# 💙 Motto
+# 📈 Contribution Graph
 
-> **Code. Learn. Build. Repeat. 🚀**
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=malakhany-max&theme=tokyo-night"/>
+
+</p>
 
 ---
 
 <p align="center">
 
-Thanks for visiting my profile ❤️
-
-If you like my work, don't forget to ⭐ my repositories.
+<img src="https://komarev.com/ghpvc/?username=malakhany-max&label=Profile+Views&color=00E5FF&style=for-the-badge"/>
 
 </p>
+
+---
+
+<h3 align="center">
+
+✨ "Keep Learning. Keep Building. Keep Growing." ✨
+
+</h3>
