@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Malak%20Hany&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&animation=fadeIn&color=0:00E5FF,25:3B82F6,60:8B5CF6,100:EC4899"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00E5FF,18:00B8FF,40:3B82F6,65:8B5CF6,82:D946EF,100:EC4899&text=Malak%20Hany&fontColor=ffffff&fontSize=62&fontAlignY=38&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=30&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Frontend+React+Developer;Web+Designer;NestJS+%7C+Node.js+%7C+TypeScript;ICPC+Participant;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=30&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Frontend+React+Developer;Web+Designer;ICPC+Participant;NestJS+%7C+Node.js+%7C+TypeScript;Always+Learning+New+Technologies"/>
 
 <h2>Frontend React Developer</h2>
 
 <p>
-Passionate about building responsive, modern, and user-friendly web applications with clean code and intuitive user experiences.
+Passionate about building modern, responsive, and user-friendly web applications with clean code, intuitive UI, and continuous learning.
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=malakhany-max&label=Profile+Views&style=for-the-badge&color=8B5CF6"/>
@@ -16,27 +16,18 @@ Passionate about building responsive, modern, and user-friendly web applications
 
 ---
 
-# 🌸 About Me
+# 💜 About Me
 
-💜 Frontend React Developer from Egypt
-
-🎓 Web Designer Trainee @ NTI
-
-⚛️ Frontend React Trainee @ DEPI
-
-🏆 ICPC Participant
-
-💡 Passionate about building modern, responsive and accessible web applications.
-
-🚀 Currently learning
-
-- TypeScript
-- Node.js
-- NestJS
-
-🎯 Goal
-
-Become a Full Stack JavaScript Developer.
+- 🇪🇬 Frontend React Developer from Egypt
+- 🎓 Web Designer Trainee @ NTI
+- ⚛️ Frontend React Trainee @ DEPI
+- 🏆 ICPC Participant
+- 💡 Passionate about UI/UX, clean code and responsive design
+- 🚀 Currently learning:
+  - TypeScript
+  - Node.js
+  - NestJS
+- 🎯 Goal: Become a Full Stack JavaScript Developer
 
 ---
 
@@ -48,19 +39,23 @@ Become a Full Stack JavaScript Developer.
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,npm"/>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,npm"/>
 
 </div>
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=malakhany-max&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malakhany-max&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malakhany-max&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malakhany-max&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=malakhany-max&theme=tokyonight"/>
 
 </div>
 
@@ -78,17 +73,12 @@ Become a Full Stack JavaScript Developer.
 
 # 🏆 Achievements
 
-🏅 ICPC Participant
-
-🎓 Web Designer Trainee @ NTI
-
-⚛️ Frontend React Trainee @ DEPI
-
-💻 Built multiple Frontend Projects using HTML, CSS, JavaScript & React
-
-🌱 Currently expanding my Backend skills with Node.js, NestJS and TypeScript
-
-🚀 Passionate about continuous learning and problem solving
+- 🏅 ICPC Participant
+- 🎓 Web Designer Trainee @ NTI
+- ⚛️ Frontend React Trainee @ DEPI
+- 💻 Built multiple Frontend Projects using HTML, CSS, JavaScript & React
+- 🌱 Expanding Backend knowledge with Node.js, NestJS & TypeScript
+- 🚀 Passionate about problem solving and continuous learning
 
 ---
 
@@ -122,7 +112,7 @@ Become a Full Stack JavaScript Developer.
 
 # 🌍 Portfolio
 
-🚧 Coming Soon...
+🚧 **Coming Soon...**
 
 ---
 
@@ -130,6 +120,6 @@ Become a Full Stack JavaScript Developer.
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00E5FF,25:3B82F6,60:8B5CF6,100:EC4899"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00E5FF,18:00B8FF,40:3B82F6,65:8B5CF6,82:D946EF,100:EC4899"/>
 
 </div>
