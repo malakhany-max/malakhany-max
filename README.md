@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Malak%20Hany&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=480066&animation=fadeIn&customColorList=6,11,20,24,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Malak%20Hany&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=480066&animation=fadeIn&customColorList=6,11,20,24,30"/>
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=2500&pause=800&color=7B66AB&center=true&vCenter=true&width=900&lines=Frontend+React+Developer;Web+Designer;TypeScript+%7C+Node.js+%7C+NestJS;ICPC+Participant;Always+Learning+New+Technologies"/>
@@ -74,19 +74,6 @@ Building modern, responsive and user-friendly web experiences with clean code, c
 
 ---
 
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=malakhany-max&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
-
----
-
-
 # 📈 Contribution Activity
 
 <div align="center">
@@ -103,7 +90,7 @@ Building modern, responsive and user-friendly web experiences with clean code, c
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/malakhany-max/malakhany-max/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/malakhany-max/malakhany-max/output/github-contribution-grid-snake.svg">
 
 </div>
 
@@ -166,6 +153,6 @@ Building modern, responsive and user-friendly web experiences with clean code, c
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&customColorList=6,11,20,24,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&customColorList=6,11,20,24,30"/>
 
 </div>
