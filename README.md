@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Malak%20Hany&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=7C3AED&animation=fadeIn&color=0:00E5FF,25:3B82F6,50:8B5CF6,75:EC4899,100:F472B6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Malak%20Hany&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=480066&animation=fadeIn&customColorList=6,11,20,24,30"/>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=900&lines=Frontend+React+Developer;Web+Designer;TypeScript+%7C+Node.js+%7C+NestJS;ICPC+Participant;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=2500&pause=800&color=7B66AB&center=true&vCenter=true&width=900&lines=Frontend+React+Developer;Web+Designer;TypeScript+%7C+Node.js+%7C+NestJS;ICPC+Participant;Always+Learning+New+Technologies"/>
 
 
 <h2>
@@ -56,22 +56,6 @@ Building modern, responsive and user-friendly web experiences with clean code, c
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,typescript,nodejs,nestjs,git,github,vscode,figma,cpp"/>
-
-</div>
-
-
----
-
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img width="48%"
-src="https://github-readme-stats.vercel.app/api?username=malakhany-max&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img width="48%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=malakhany-max&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
