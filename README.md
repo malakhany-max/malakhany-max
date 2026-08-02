@@ -136,6 +136,10 @@ Building modern, responsive and user-friendly web experiences with clean code, c
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
 </a>
 
+<a href="https://t.me/M9726H">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
 <a href="https://discord.com/users/1147313890787594351">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord"/>
 </a>
