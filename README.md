@@ -5,9 +5,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=2500&pause=800&color=7B66AB&center=true&vCenter=true&width=900&lines=Frontend+React+Developer;Web+Designer;TypeScript+%7C+Node.js+%7C+NestJS;ICPC+Participant;Always+Learning+New+Technologies"/>
 
-
-<h2>
-Frontend React Developer
+<h2 align="center">
+  ✦ Built with Intention. Crafted to Last. ✦
 </h2>
 
 <p>
